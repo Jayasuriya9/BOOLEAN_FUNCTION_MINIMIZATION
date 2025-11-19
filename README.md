@@ -35,25 +35,24 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by: Abinaya R RegisterNumber:*/ 25008293
+
+<img width="491" height="634" alt="Screenshot 2025-10-21 095824" src="https://github.com/user-attachments/assets/f9d61326-5d9d-42d0-b2f3-dbe2b5991c20" />
 
 
 **RTL realization**
 
+<img width="1035" height="387" alt="Screenshot 2025-10-21 095842" src="https://github.com/user-attachments/assets/1d88bef3-4b0a-4c29-8952-e983934ad02a" />
+<img width="1037" height="381" alt="Screenshot 2025-10-21 095858" src="https://github.com/user-attachments/assets/cbcf55f2-08c7-4337-994c-065822247504" />
+
 **Output:**
 
 **RTL**
-ADDITION
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/61573d8e-9722-46e0-bf4a-c647d2d94749" />
-SUBRACTION
-<img width="1918" height="1078" alt="SUBB" src="https://github.com/user-attachments/assets/8cce2344-b6c6-4546-8118-027efbecdfc8" />
-
 
 **Timing Diagram**
-ADDITION
-<img width="1903" height="1025" alt="FLOW 2" src="https://github.com/user-attachments/assets/a222293c-02a6-45ec-99c8-0610a7956473" />
-SUBRATION
-<img width="1918" height="1078" alt="FLOW2" src="https://github.com/user-attachments/assets/b06da8c6-43b3-4e43-a416-05f292d0d93c" />
+
+<img width="1107" height="249" alt="Screenshot 2025-10-21 100350" src="https://github.com/user-attachments/assets/00c067ca-ebb7-4463-924a-743b9d8db42e" />
+<img width="1033" height="184" alt="Screenshot 2025-10-21 095942" src="https://github.com/user-attachments/assets/d4e2c608-3024-4728-8d1e-a8e9d21a9f5c" />
 
 **Result:**
 
